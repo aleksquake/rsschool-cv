@@ -1,6 +1,6 @@
 # Lazarevskaya Alexandra
 UX designer
-[Portfilio](https://www.behance.net/alexandlazarev1 )
+[Portfolio](https://www.behance.net/alexandlazarev1 )
 
 ## Work history
 **UX designer**
