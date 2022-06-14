@@ -68,11 +68,11 @@ body {
     
 .container {
     max-width: 1440px;
-    margin: 60px;
+    margin: 0 auto;
 }
 
 .avatar {
-    width: 200px;
+    height: 300px;
 }
 
 .about {
@@ -102,6 +102,8 @@ footer {
 
 table {
     width: 100%;
+    padding: 5px 10px;
+
 }
 
 .nav-list {
@@ -110,6 +112,7 @@ table {
     align-items:center;
     list-style: none;
 }
+
 
 .nav-link {
     padding: 0 20px;
